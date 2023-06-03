@@ -6,7 +6,7 @@ logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 
 
 # creating the project name
-project_name = "chicken disease classifier"
+project_name = "chicken-disease"
 
 # list of files required for the project
 list_of_files = [
